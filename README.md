@@ -37,8 +37,6 @@ Here’s a quick breakdown of the process:
 
 ## 💡 Example
 
-Say you search for:  
-```python recommend("Avatar")`
 You might get results like:
 
 John Carter
@@ -50,3 +48,7 @@ Interstellar
 Ender's Game
 
 Gravity
+
+After you search for:  
+```python
+recommend("Avatar")
